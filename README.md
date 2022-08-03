@@ -1,0 +1,1 @@
+dubbo 3.0.10 + spring-boot 2.6.4 + nacos.client.version 2.1.0

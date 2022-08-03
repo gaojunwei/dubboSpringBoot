@@ -1,6 +1,6 @@
 #web端口配置
 server:
-  port: 9000
+  port: 9001
 dubbo:
   application:
     name: demo-consumer
